@@ -1,4 +1,4 @@
-# 📄 Week 1 – Problem Statement Document  
+# Week 1 – Problem Statement Document  
 ## Public Transport Delay Predictor  
 
 ---
